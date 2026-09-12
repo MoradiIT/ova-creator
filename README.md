@@ -70,4 +70,3 @@ Please refer to the applicable VMware/Broadcom license terms accompanying OVF To
 Unless otherwise stated, the original scripts and documentation created by Moradi IT are provided under the license included in this repository.
 
 The project license applies **only to the original material created by Moradi IT** and does not grant any additional rights to the included VMware/Broadcom software.
- </br> </br>
