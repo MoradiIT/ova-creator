@@ -21,6 +21,22 @@ The utility uses **VMware OVF Tool** to perform the actual virtual machine expor
 4. Provide the requested virtual machine path, destination, and other information.
 5. The script will use VMware OVF Tool to create the OVA file.
  </br> </br>
+
+## Start Menu Shortcut
+
+To add an icon for this `.bat` file to the Windows Start Menu:
+
+1. Create a shortcut for the `.bat` file.
+2. Give the shortcut an appropriate name.
+3. Assign a suitable icon to the shortcut.
+4. Copy or move the shortcut to the following Start Menu folder:
+
+```text
+%AppData%\Microsoft\Windows\Start Menu\Programs
+```
+
+The shortcut will then appear in the Windows Start Menu.
+ </br> </br>
  
 ## Troubleshooting
 
