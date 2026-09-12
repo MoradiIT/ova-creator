@@ -7,20 +7,18 @@ The utility uses **VMware OVF Tool** to perform the actual virtual machine expor
 
 ## Features
 
-* Export VMware Workstation virtual machines to a single OVA file.
+* Exports VMware Workstation virtual machines to a single OVA file.
 * Simple interactive setup through a batch file.
 * Designed to make the OVA export process easier for users who do not want to manually work with OVF Tool commands.
-* The included OVF Tool files allow the utility to be used without requiring users to manually configure the tool.
  </br> </br>
 
 ## Usage
 
 1. Download or clone this repository.
-2. Run `00 Setup.bat`.
+2. Run `01 Setup.bat`.
 3. Follow the instructions displayed by the script.
 4. Provide the requested virtual machine path, destination, and other information.
-5. The script will use VMware OVF Tool to create the OVA file.
- </br> </br>
+   </br> </br>
 
 ## Start Menu Shortcut
 
@@ -64,7 +62,8 @@ The batch files, scripts, documentation, and other original material created spe
 VMware and Broadcom are trademarks of their respective owners. This project is not affiliated with, sponsored by, or endorsed by VMware or Broadcom.
 
 Please refer to the applicable VMware/Broadcom license terms accompanying OVF Tool for the rights and restrictions applicable to the included third-party software.
-
+ </br> </br>
+ 
 ## Project License
 
 Unless otherwise stated, the original scripts and documentation created by Moradi IT are provided under the license included in this repository.
